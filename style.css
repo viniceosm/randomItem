@@ -1,0 +1,23 @@
+body {
+	background: black;
+}
+* {
+	box-sizing: border-box;
+}
+.box {
+	background: white;
+	padding: 5px;
+}
+button {
+	background: #9c27b0;
+	color: white;
+	border: 1px solid black;
+	padding: 5px;
+}
+#taItens {
+	width: 100%;
+	margin-top: 20px;
+}
+#btnGerar {
+	width: 100%;
+}
